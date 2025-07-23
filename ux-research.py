@@ -287,16 +287,16 @@ if __name__ == "__main__":
         all_results = []
         
         for i, url in enumerate(urls, 1):
-            print(f"\n📊 Processing URL {i}/{len(urls)}")
+            print(f"\nProcessing URL {i}/{len(urls)}")
             results = research.run_research(url)
             
             if results:
                 # Save individual results
                 filename = research.save_results(results)
                 all_results.append(results)
-                print(f"✅ Analysis completed for URL {i}")
+                print(f"Analysis completed for URL {i}")
             else:
-                print(f"❌ Failed to analyze URL {i}")
+                print(f"Failed to analyze URL {i}")
         
         print(f"\nUX Research Analysis Complete!")
         print(f"Successfully analyzed {len(all_results)} out of {len(urls)} URLs")
