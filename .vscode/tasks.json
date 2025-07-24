@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "LUMIRA Research Assistant - Demo",
+      "type": "shell",
+      "command": "/home/david/hackaton/lomba/.venv/bin/python",
+      "args": ["demo.py"],
+      "group": "build",
+      "isBackground": false,
+      "problemMatcher": []
+    }
+  ]
+}

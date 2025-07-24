@@ -1,0 +1,23 @@
+# LUMIRA Research Assistant v2.0 Dependencies
+# Optimized for mid-spec laptops (6-7GB RAM usage)
+
+# Core libraries
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Text processing and data handling
+unicodedata2>=15.0.0
+lxml>=4.9.0
+urllib3>=2.0.0
+
+# Enhanced concurrent processing
+concurrent-futures>=3.1.1
+
+# PDF processing (lightweight)
+PyMuPDF>=1.23.0
+
+# Additional utilities for enhanced functionality
+python-dateutil>=2.8.0
+chardet>=5.0.0

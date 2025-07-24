@@ -1,0 +1,83 @@
+{
+  "default_config": {
+    "topic": "akses pendidikan vokasi di Indonesia",
+    "tahun": "2021-2025",
+    "output_folder": "Riset Vokasi Indonesia – LUMIRA",
+    "max_sources": 25,
+    "language": "id",
+    "enable_summarize": true,
+    "enable_download": false,
+    "enable_extract_data": true,
+    "enable_parallel": true,
+    "max_workers": 4
+  },
+  "search_keywords_id": [
+    "pendidikan vokasi digital indonesia",
+    "akses pendidikan kejuruan digital",
+    "kesenjangan digital pendidikan indonesia",
+    "platform pembelajaran vokasi online",
+    "teknologi pendidikan kejuruan",
+    "SMK digital transformation",
+    "keterampilan digital indonesia",
+    "edtech vokasi indonesia",
+    "pelatihan kerja digital",
+    "sertifikasi kompetensi digital"
+  ],
+  "search_keywords_en": [
+    "digital vocational education indonesia",
+    "vocational training access inequality indonesia",
+    "digital divide education indonesia",
+    "online vocational learning platform",
+    "educational technology vocational",
+    "digital skills training indonesia",
+    "vocational education technology indonesia",
+    "indonesia workforce development digital",
+    "technical education digital transformation"
+  ],
+  "data_extraction_patterns": {
+    "partisipasi_smk": ["partisipasi SMK", "enrollment SMK", "siswa SMK"],
+    "tingkat_pengangguran": [
+      "pengangguran lulusan",
+      "unemployment rate",
+      "tingkat menganggur"
+    ],
+    "akses_internet": [
+      "akses internet",
+      "internet penetration",
+      "konektivitas digital"
+    ],
+    "literasi_digital": [
+      "literasi digital",
+      "digital literacy",
+      "kemampuan digital"
+    ],
+    "platform_edtech": ["platform edtech", "learning management system", "LMS"],
+    "sertifikasi_digital": [
+      "sertifikasi digital",
+      "digital certification",
+      "kompetensi digital"
+    ]
+  },
+  "output_formats": {
+    "master_report": "Laporan_Riset_Lengkap.md",
+    "excel_database": "Database_Sumber_Riset.xlsx",
+    "csv_database": "Database_Sumber_Riset.csv",
+    "metadata_file": "metadata.json"
+  },
+  "performance_settings": {
+    "max_content_length": 10000,
+    "request_delay": 1.5,
+    "timeout_seconds": 20,
+    "max_retries": 3,
+    "memory_limit_mb": 6500,
+    "parallel_processing": true,
+    "max_workers": 4,
+    "cache_size": 100
+  },
+  "quality_thresholds": {
+    "min_relevance_score": 1.0,
+    "min_content_length": 50,
+    "min_summary_words": 50,
+    "max_summary_words": 200
+  }
+}
