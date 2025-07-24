@@ -1,0 +1,54 @@
+============================================================
+SDG UX RESEARCH ANALYSIS REPORT
+============================================================
+
+URL: https://sdgs.un.org/news/call-inputs-global-sustainable-development-report-2023-34347
+Analysis Date: 2025-07-23 11:12:15
+Processing Time: 42.94 seconds
+
+SUMMARY:
+--------------------
+Call for Inputs for the Global Sustainable Development Report 202322 Sep 2021Related Goals1234567891011121314151617ShareGSDR 2023 Call for inputsClickhereto contributeDEADLINE: 1 November 2021.
+
+KEY INSIGHTS:
+--------------------
+Total Sentences: 11
+Total Tokens: 317
+Average Sentence Length: 28.8 words
+
+TOP KEYWORDS:
+1. report (frequency: 5)
+2. development (frequency: 4)
+3. global (frequency: 3)
+4. sustainable (frequency: 3)
+5. gsdr (frequency: 3)
+6. publication (frequency: 3)
+7. scientist (frequency: 3)
+8. contribution (frequency: 3)
+9. form (frequency: 3)
+10. case (frequency: 3)
+
+NAMED ENTITIES:
+- the Global Sustainable Development Report (ORG)
+- 2023 (CARDINAL)
+- 1 November (CARDINAL)
+- the CallThe Global Sustainable Development Report (ORG)
+- United Nations (ORG)
+- the High-Level Political Forum (ORG)
+- Sustainable Development (ORG)
+- IGS (ORG)
+- six (CARDINAL)
+- UN (ORG)
+- four years (DATE)
+- 2019 (DATE)
+- 2023 (DATE)
+- 2023 (DATE)
+- IGS (ORG)
+
+SAMPLE CONTENT:
+--------------------
+1. NewsCall for Inputs for the Global Sustainable Development Report 202322 Sep 2021Related Goals1234567891011121314151617ShareGSDR 2023 Call for inputsClickhereto contributeDEADLINE: 1 November 2021Abou...
+2. Drafted by an independent group of scientists (IGS) appointed by the Secretary-General and supported by a task team of six UN-system agencies, the GSDR is published every four years....
+3. Theprevious reportwas launched in 2019, while the 2023 report is currently in development....
+
+Word Cloud saved as: wordcloud_1753269130.png
